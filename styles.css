@@ -12,23 +12,32 @@ hr {
 }
 
 h1 {
+  line-height: 0px;
   text-align: center;
   font-weight: 500;
-  font-size: 40px
+  font-size: 50px
 }
 
 h2 {
+
   text-align: center;
   font-weight: 500;
   font-size: 23px
 }
 
 h3 {
+  line-height: 0;
+  text-align: center;
+  font-weight: 500;
+  font-size: 15px
+}
+h4 {
   text-align: center;
 }
 
-h4{
+h5 {
   text-align: left;
+  font-size: medium;
 }
 
 .box1 {
@@ -51,7 +60,10 @@ img {
   padding-bottom: 20px;
 }
 
-.green{
+.green {
   color: rgb(56, 151, 112)
 }
 
+p{
+  text-indent:10px
+}
