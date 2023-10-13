@@ -4,20 +4,20 @@
 
 #### A professional profile page. 
 
-##Technologies Used
+## Technologies Used
 
 * HTML
 * CSS
 
 ## Description
 
-This is a professional profile page for Brianca Knight including a biography, background, and current GitHub projects. This page demonstrates an understanding of HTML and CSS, in accordance with Epicenter's first code review.
+This is a professional profile page for Brianca Knight to showcase her programming experience. It includes a biography, background, and current GitHub projects. This page demonstrates an understanding of HTML and CSS, in accordance with Epicenter's first code review.
 
 ## Setup/Installation Requirements
 
-* XXX to be updated XXX
-* XXX to be updated XXX
-* * XXX to be updated XXX
+* Clone this repository to your desktop.
+* Navigate to the top level of the directory. 
+* Open portfolio-page.html in your browser.
 
 ## Known Bugs
 
