@@ -23,6 +23,20 @@ h3{
   text-align: center;
 }
 
+.box1 {
+  width: auto;
+  border: 5px solid rgb(135, 152, 197);
+  padding: 50px;
+  margin: 20px;
+}
+
+.box2 {
+  width: auto;
+  padding: 10px;
+  margin: 20px;
+}
+
 img {
   float: left;
 }
+
