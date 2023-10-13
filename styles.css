@@ -1,5 +1,4 @@
 body {
-  background-color: rgb(246, 238, 253);
   font-family: Georgia;
   font-weight: 500;
 }
@@ -28,6 +27,7 @@ h3 {
 p {
   
 }
+
 .box1 {
   width: auto;
   height: auto;
