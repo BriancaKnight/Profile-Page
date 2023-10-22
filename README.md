@@ -25,6 +25,6 @@ This is a professional profile page for Brianca Knight to showcase her programmi
 
 ## License
 
-Brianca Knight (briancaknight@gmail.com)
+MIT
 
 Copyright (c) 2023 Brianca Knight
