@@ -1,4 +1,4 @@
-# profile-page
+# Profile Page
 
 #### By Brianca Knight
 
@@ -25,6 +25,6 @@ This is a professional profile page for Brianca Knight to showcase her programmi
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2023 Brianca Knight
